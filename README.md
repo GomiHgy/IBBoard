@@ -13,8 +13,8 @@
 
 IBBoard_70_50.fzz : 70×50×1mm
 
-![70×50×1mm](IBBoard_70_50mm.jpg)
+<img src="IBBoard_70_50mm.jpg" width="320">
 
 IBBoard_40_30.fzz : 40×30×1mm
 
-![40×30×1mm](IBBoard_40_30mm.jpg)
+<img src="IBBoard_40_30mm.jpg" width="320">
