@@ -19,7 +19,7 @@ IBBoard_40_30.fzz : 40×30×1mm
 
 <img src="img/IBBoard_40_30mm.jpg" width="320">
 
-## 作例
+## 作例(▶をクリックするとレシピが見れます)
 
 <details>
 <summary>目が光る犬</summary>
